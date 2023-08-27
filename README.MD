@@ -14,6 +14,7 @@ Colección de varios proyectos de JavaScript. Realizados en un curso de JavaScri
 - 04 - Crear Lista.
 - 05 - Pestañas.
 - 06 - Api de Chistes de padres (Api en inglés).
+- 07 - Calculadora.
 
 ## Futuro
 

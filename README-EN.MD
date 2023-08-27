@@ -14,6 +14,7 @@ Collection of various JavaScript projects. Created in a Vanilla JavaScript cours
 - 04 - Create List.
 - 05 - Tabs.
 - 06 - Dad Jokes API (API in English).
+- 07 - Calculator.
 
 ## Future
 
