@@ -1,6 +1,6 @@
 ## Proyectos de JavaScript
 
-Colección de varios proyectos de JavaScript. Realizados en un curso de JavaScript Vanilla.
+Colección de varios proyectos de JavaScript. Realizados en un curso de JavaScript Vanilla y tutoriales de Youtube.
 
 ## Inicializar proyectos
 
